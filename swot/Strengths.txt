@@ -1,0 +1,5 @@
+1. User Friendly.
+2. Easy to modify the temperature value.
+3. The system is robust.
+4. Low cost.
+5. Modular Based Programs.
