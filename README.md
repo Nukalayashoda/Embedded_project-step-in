@@ -1,5 +1,5 @@
 # Embedded_project-step-in
-SeatHeatingApplication
+Seat Heating Application
 
 Activity_1
 
