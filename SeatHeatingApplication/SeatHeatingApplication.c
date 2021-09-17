@@ -3,13 +3,6 @@
 #include "activity1.h"
 #include "activity2.h"
 #include "activity3.h"
-#include "activity4.h"
-
-/**
- * @brief Main function
- * 
- * @return int 
- */
 
 int main(void)
 {
