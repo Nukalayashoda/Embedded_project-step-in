@@ -30,5 +30,10 @@ char PWMoutput(uint16_t ADC_Value){
         _delay_ms(20);
         return 'c';
     }
+    else if((ADC_Value>=710) && (ADC_Value<=1024)){
+
+        OCR1A = 980;   //95% duty cycle
+        _delay_ms(20);
+        return 'd';
 
 }
