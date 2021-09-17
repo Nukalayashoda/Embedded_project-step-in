@@ -12,8 +12,7 @@ To read the ADC value using potentiometer.
 #Activity_3
 
 To read the PWM output using CRO.
-<a href="https://frontend.code-inspector.com/public/user/github/Nukalayashoda">
-   <img src="https://code-inspector.com/public/badge/user/github/Nukalayashoda?style=light" alt="code inspector badge" />
+<a 
    <img src="https://www.code-inspector.com/project/28860/score/svg" />
     <img src="https://www.code-inspector.com/project/28860/status/svg
 </a>
